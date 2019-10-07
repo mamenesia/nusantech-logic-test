@@ -1,6 +1,6 @@
 const pola2 = S => {
 	if (S % 2 === 0) {
-		console.log('Input must be odd number ! (2n-1)')
+		console.log('Input must be odd number ! (4n-1)')
 		return
 	}
 
